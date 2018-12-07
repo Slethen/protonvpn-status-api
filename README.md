@@ -3,7 +3,7 @@ Very simple API to confirm if a user is connected to ProtonVPN.
 Created for use with [ProtonVPN-Gtk](https://github.com/Slethen/ProtonVPN-Gtk)
 
 # Simple example to print live connection status in Python
-```
+```python
 import requests
 import json
 import time
