@@ -1,0 +1,1 @@
+# protonvpn-status-api
